@@ -1,1 +1,1 @@
-This is my local repository 
+This is my local repository where I practice Git commands and manage version control for my projects.
